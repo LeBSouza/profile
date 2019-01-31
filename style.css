@@ -1,0 +1,78 @@
+body {
+  background-color: #10171E;
+  text-align: center;
+}
+
+caption {
+  font-family: 'Kalam', cursive;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+h3 {
+  font-family: 'Kalam', cursive;
+  font-weight: 400;
+}
+
+.lato-light {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+
+.panel {
+  width: 500px;
+  margin: 0 auto;
+  padding: 30px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border-color: #7D8A81;
+  background-color: #15202B;
+  box-shadow: 2px, 2px, 3px, black;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+
+.justify-text {
+  text-align: justify;
+}
+
+.font-blue {
+  color: #00a8b5;
+}
+
+.font-grey {
+  color:#8899A6;
+}
+
+.font-white {
+  color: 240, 240, 240;
+}
+
+.fab {
+  color: #fbb901;
+  font-size: 30px;
+}
+
+.fab:hover {
+  color: #ea168e;
+}
+
+#avatar {
+  border-radius: 75px;
+  border: solid;
+  border-color: #101922;
+  padding: 4px;
+}
+
+#bold {
+  font-weight: 700;
+  font-size: 40px;
+}
+
+
+#00a8b5 blue
+#fbb901 yellow
